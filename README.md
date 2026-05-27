@@ -23,9 +23,9 @@ resolver problemas reais e me dedico a isso com curiosidade e muita vontade de a
 
 ## 📊 GitHub Stats
 
-![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcusSilvaCode&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusSilvaCode&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
