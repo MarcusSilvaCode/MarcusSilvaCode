@@ -25,6 +25,10 @@ resolver problemas reais e me dedico a isso com curiosidade e muita vontade de a
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MarcusSilvaCode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcusSilvaCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusSilvaCode&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🔗 Conecte-se comigo
